@@ -5,7 +5,7 @@ The app is composed of:
 
 **Server**: A simple dart server that serves the voice web page, and the routes to perform a socket comunication.\
 **App**: A Flutter web app which is used to interact with the chat.\
-**Ai_Code**: A Javascript file with the code to inject in chat-gpt page to get the chat input/output.\
+**Ai_Code**: A Javascript file with the code to inject in chat-gpt page to get the chat input/output.
 
 # ABOUT COPYRIGHT
 This app doesn't intend to be a hack or something like this. It's not intend to be used for comercial purpose.

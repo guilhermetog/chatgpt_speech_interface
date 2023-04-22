@@ -1,4 +1,4 @@
-# CHATGPT FLUTTER VOICE INTERFACE
+# CHATGPT SPEECH INTERFACE
 
 A Simple App that interfaces chat-gpt interface
 The app is composed of:
